@@ -1,0 +1,10 @@
+C:\Users\lehon\source\repos\PersonEntry\PersonEntry\bin\Debug\PersonEntry.exe.config
+C:\Users\lehon\source\repos\PersonEntry\PersonEntry\bin\Debug\PersonEntry.exe
+C:\Users\lehon\source\repos\PersonEntry\PersonEntry\bin\Debug\PersonEntry.pdb
+C:\Users\lehon\source\repos\PersonEntry\PersonEntry\obj\Debug\PersonEntry.csproj.AssemblyReference.cache
+C:\Users\lehon\source\repos\PersonEntry\PersonEntry\obj\Debug\PersonEntry.Form1.resources
+C:\Users\lehon\source\repos\PersonEntry\PersonEntry\obj\Debug\PersonEntry.Properties.Resources.resources
+C:\Users\lehon\source\repos\PersonEntry\PersonEntry\obj\Debug\PersonEntry.csproj.GenerateResource.cache
+C:\Users\lehon\source\repos\PersonEntry\PersonEntry\obj\Debug\PersonEntry.csproj.CoreCompileInputs.cache
+C:\Users\lehon\source\repos\PersonEntry\PersonEntry\obj\Debug\PersonEntry.exe
+C:\Users\lehon\source\repos\PersonEntry\PersonEntry\obj\Debug\PersonEntry.pdb
